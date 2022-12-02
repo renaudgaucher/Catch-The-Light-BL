@@ -1,4 +1,7 @@
 # Catch-The-Light-BL
+
+Game implemented in a MEGA arduino to create an arcade terminal in the arcade of the Ecole Polytechnique 
+
 Jeu implémenté dans une arduino MEGA pour créer une borne d'arcade dans la salle d'arcade de l'école Polytechnique
 
 Le programme fonctionne comme suit : 
